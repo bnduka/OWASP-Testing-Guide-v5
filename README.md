@@ -81,6 +81,7 @@ document/
 
 ## Maintainers
 
+- [Bamibo Nduka] (https://github.com/bnduka)
 - [Rick Mitchell](https://github.com/kingthorin)
 - [Elie Saad](https://github.com/ThunderSon)
 
